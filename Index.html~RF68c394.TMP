@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="estilo.css" type="text/css">
+  </head>
+  <body>
+    <div id="principal">
+
+<div id="logo"><img src="imagens/logo.png" width="200" hight="300"</div>
+<div id="menu">
+
+  <ol>
+    <li><a href="">Home</li>
+      <li><a href="">Quem Somos</li>
+        <li><a href="">Pontos Turísticos</li>
+          <li><a href="">Contato</li>
+  </ol>
+</div>
+</div>
+  </body>
+</html>

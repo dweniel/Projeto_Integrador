@@ -1,0 +1,22 @@
+*{margin: 0 auto;}
+
+#principal{ background-color: }
+#topo{width: 1000px; height: 720px;}
+#logo{position: absolute}
+#menu{padding-left: 500px; float: left; margin: 0 background-color: #134d86; text-decoration-style: center;}
+#menu ol{list-style-type: none;}
+#menu ol li{float: left; padding: 10px 100px 10px 10px; width: 0 auto; height: 0 auto;}
+#menu ol li a{ font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+#menu ol li a:hover{border-width: 100px; background-color:aqua; transition: 2s; border-radius: 10px;}
+
+#menu img{}
+#conteudo{padding: 0; border:5px solid #000000;}
+#conteudo img{ width: auto; height: 
+0 auto; float: left; margin: 0 auto;}
+
+#turisticos ol{list-style-type: none;}
+#turisticos ol li{float: left; padding: 15px 15px 15px 10px; width: 0 auto; height: auto;}
+#turisticos ol li img{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; border-radius:10px; width: 350px; height: 350px;}
+#turisticos ol li img:hover{border-image: 100px; border-radius: 10px; padding-bottom: 30px;}
+#texto p{background-color: #d9d9d9;}
+
